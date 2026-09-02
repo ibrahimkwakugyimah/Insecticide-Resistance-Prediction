@@ -5,7 +5,7 @@ scikit-learn
 xgboost
 shap
 imblearn
-tensorflow
+tensorflow==2.12.0
 keras
 streamlit
 dowhy
